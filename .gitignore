@@ -1,4 +1,4 @@
 .build
-POE-Component-Kafka-Consumer
+POE-Component-Kafka-Consumer-*
 Changes
 *.yaml

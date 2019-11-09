@@ -1,0 +1,43 @@
+# NAME
+
+POE::Component::Kafka::Consumer - Interface to consume data from a Kafka queue without blocking
+
+# VERSION
+
+version 0.001
+
+# AUTHOR
+
+Brad Lhotsky <brad@divisionbyzero.net>
+
+# COPYRIGHT AND LICENSE
+
+This software is Copyright (c) 2019 by Brad Lhotsky.
+
+This is free software, licensed under:
+
+    The (three-clause) BSD License
+
+# SUPPORT
+
+## Websites
+
+The following websites have more information about this module, and may be of help to you. As always,
+in addition to those websites please use your favorite search engine to discover more resources.
+
+- MetaCPAN
+
+    A modern, open-source CPAN search engine, useful to view POD in HTML format.
+
+    [https://metacpan.org/release/POE-Component-Kafka-Consumer](https://metacpan.org/release/POE-Component-Kafka-Consumer)
+
+- RT: CPAN's Bug Tracker
+
+    The RT ( Request Tracker ) website is the default bug/issue tracking system for CPAN.
+
+    [https://rt.cpan.org/Public/Dist/Display.html?Name=POE-Component-Kafka-Consumer](https://rt.cpan.org/Public/Dist/Display.html?Name=POE-Component-Kafka-Consumer)
+
+## Source Code
+
+This module's source code is available by visiting:
+[https://github.com/reyjrar/POE-Component-Kafka-Consumer](https://github.com/reyjrar/POE-Component-Kafka-Consumer)
